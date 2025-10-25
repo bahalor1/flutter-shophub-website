@@ -78,27 +78,27 @@ Bu proje, Flutter framework'ü kullanılarak geliştirilmiş modern bir e-ticare
 |   |   |   |
 | :-: | :-: | :-: |
 | ![](<img width="1917" height="1032" alt="1" src="https://github.com/user-attachments/assets/3b377d24-9dd7-48de-882f-fff6e8430b45" />
-) | ![](<img width="1919" height="1030" alt="2" src="https://github.com/user-attachments/assets/33b46b44-04f3-4e59-bd7c-74a661d2ee58" />
-) | ![](<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ed1e4d5b-ea74-4edd-b968-9e6f5736de66" />
+) |![](<img width="1919" height="1030" alt="2" src="https://github.com/user-attachments/assets/33b46b44-04f3-4e59-bd7c-74a661d2ee58" />
+) |![](<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/ed1e4d5b-ea74-4edd-b968-9e6f5736de66" />
 ) |
 | ![](<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/8bfc505d-c3ff-45ec-892f-50ebd4bb005b" />
-) | ![](<img width="1919" height="1030" alt="5" src="https://github.com/user-attachments/assets/30d19eb1-6141-4071-9ac9-22ec498d4140" />
-) | ![](<img width="1919" height="1031" alt="6" src="https://github.com/user-attachments/assets/2626e0b4-34bc-41ce-8220-d606af48a44d" />
+) |![](<img width="1919" height="1030" alt="5" src="https://github.com/user-attachments/assets/30d19eb1-6141-4071-9ac9-22ec498d4140" />
+) |![](<img width="1919" height="1031" alt="6" src="https://github.com/user-attachments/assets/2626e0b4-34bc-41ce-8220-d606af48a44d" />
 ) |
 | ![](<img width="1919" height="1032" alt="7" src="https://github.com/user-attachments/assets/b9bbaf95-7a31-41ab-aa3a-80abe26b5fd2" />
-) | ![](<img width="1919" height="1030" alt="8" src="https://github.com/user-attachments/assets/9e670696-fff8-439a-8263-e08db56812ef" />
-) | ![](<img width="1919" height="1031" alt="9" src="https://github.com/user-attachments/assets/7f478e16-d969-4d76-b646-7f2afaf22e13" />
+) |![](<img width="1919" height="1030" alt="8" src="https://github.com/user-attachments/assets/9e670696-fff8-439a-8263-e08db56812ef" />
+) |![](<img width="1919" height="1031" alt="9" src="https://github.com/user-attachments/assets/7f478e16-d969-4d76-b646-7f2afaf22e13" />
 ) |
 | ![](<img width="1919" height="1028" alt="10" src="https://github.com/user-attachments/assets/1cc22acb-3ed3-4ee4-acb2-0e5c0ea5a955" />
-) | ![](<img width="1919" height="1031" alt="11" src="https://github.com/user-attachments/assets/4cbcc18e-2635-4270-bd36-c3a8f6b57397" />
-) | ![](<img width="1920" height="1031" alt="13" src="https://github.com/user-attachments/assets/1f482ef1-f273-4680-b526-e7dc17119a1d" />
+) |![](<img width="1919" height="1031" alt="11" src="https://github.com/user-attachments/assets/4cbcc18e-2635-4270-bd36-c3a8f6b57397" />
+) |![](<img width="1920" height="1031" alt="13" src="https://github.com/user-attachments/assets/1f482ef1-f273-4680-b526-e7dc17119a1d" />
 ) |
 | ![](<img width="1920" height="1031" alt="14" src="https://github.com/user-attachments/assets/18acd36c-f85a-4246-acc3-6b2aedb0cd56" />
-) | ![](<img width="1920" height="1031" alt="15" src="https://github.com/user-attachments/assets/482d64f2-b3d3-4866-b77e-3929df37fcfc" />
-) | ![](<img width="1920" height="1031" alt="16" src="https://github.com/user-attachments/assets/bdd1d0ea-04a4-4ad0-98b0-4082f6803169" />
+) |![](<img width="1920" height="1031" alt="15" src="https://github.com/user-attachments/assets/482d64f2-b3d3-4866-b77e-3929df37fcfc" />
+) |![](<img width="1920" height="1031" alt="16" src="https://github.com/user-attachments/assets/bdd1d0ea-04a4-4ad0-98b0-4082f6803169" />
 ) |
 | ![](<img width="1920" height="1032" alt="17" src="https://github.com/user-attachments/assets/a7dd1555-6b05-4d9c-8a23-024b5f987917" />
-) | ![]() | ![]() |
+|
 
 *(**Not:** Yukarıdaki `link/to/your/screenshotX.png` kısımlarını kendi ekran görüntülerinizin URL'leri ile değiştirin.)*
 
